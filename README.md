@@ -1,4 +1,6 @@
-# Linear Regression - Scikit
+# Learning Machine Learning
+
+## Linear Regrassion
 
 Linear regression is an algorithm for modelling the relationship between a dependent and an independent variables. The dependent variable is the one under study, and the one that the model tries to predict. 
 
